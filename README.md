@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-```typescript
+
 const gamachu = {
   name:       "Gamachu Abebe",
   role:       "ECE Student | Aspiring Full-Stack Developer",
@@ -37,7 +37,7 @@ const gamachu = {
   funFact:    "I debug with console.log and I'm not ashamed 😄",
   goal:       "Build impactful products that solve real problems",
 };
-```
+
 
 ---
 
