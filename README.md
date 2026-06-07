@@ -22,24 +22,27 @@
 
 </div>
 
----
 
 ## 🧠 About Me
 
 
 const gamachu = {
-  name:       "Gamachu Abebe",
-  role:       "ECE Student | Aspiring Full-Stack Developer",
-  location:   "Ethiopia 🇪🇹",
-  education:  "Electrical & Computer Engineering",
-  passion:    ["Web Development", "Open Source", "Problem Solving"],
-  currentlyLearning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
-  goal:       "Build impactful products that solve real problems",
+  name: "Gamachu Abebe",
+  role: "ECE Student | Aspiring Full-Stack Developer",
+  location: "Ethiopia 🇪🇹",
+  education: "Electrical & Computer Engineering",
+  passion: ["Web Development", "Open Source", "Problem Solving"],
+  currentlyLearning: [
+    "Advanced React Patterns",
+    "System Design",
+    "Cloud Architecture"
+  ],
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  goal: "Build impactful products that solve real problems"
 };
 
 
----
+
 
 ## 🛠️ Tech Stack
 
