@@ -1,46 +1,46 @@
+# README.md
 
-<h1 align="center">Hi 👋, I'm Gamachu Abebe</h1>
+<div align="center">
 
-<h3 align="center">
-ECE Student • Aspiring Full-Stack Developer • Lifelong Learner 🚀
-</h3>
+# Hi there, I'm Gamachu Abebe 👋
 
-<p align="center">
-  Passionate about building impactful software and continuously improving my skills.
-</p>
+### ECE Student • Aspiring Full-Stack Developer • Problem Solver
 
-<p align="center">
+Building projects, learning continuously, and turning ideas into code.
+
+<p>
   <a href="https://github.com/Mega-1-One">
-    <img src="https://img.shields.io/badge/GitHub-Mega--1--One-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Mega--1--One-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gamachu-abebe-35b281329">
-    <img src="https://img.shields.io/badge/LinkedIn-Gamachu_Abebe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Gamachu_Abebe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 ECE Student at ASTU
-- 💻 Aspiring Full-Stack Software Developer
-- 🌱 Currently learning Python, JavaScript, and Frontend Development
-- 🔭 Building projects to strengthen problem-solving and development skills
-- 🎯 Goal: Create impactful software and contribute to open source
-- ⚡ Fun fact: Every line of code is an opportunity to learn something new.
+- 💻 Passionate about software development and emerging technologies
+- 🌱 Currently learning **Python, JavaScript, and Frontend Development**
+- 🔭 Building projects to improve problem-solving and engineering skills
+- 🎯 Goal: Become a Full-Stack Software Developer
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,go,rust,swift" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
@@ -50,35 +50,35 @@ ECE Student • Aspiring Full-Stack Developer • Lifelong Learner 🚀
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-### DevOps & Cloud
+### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vite" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma,postman,vite" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mega-1-One&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mega-1-One&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mega-1-One&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mega-1-One&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
-<h2 align="center">🔥 GitHub Streak</h2>
+## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mega-1-One&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mega-1-One&theme=github-dark-blue&hide_border=true" />
+
+</div>
 
 ---
 
@@ -87,7 +87,7 @@ ECE Student • Aspiring Full-Stack Developer • Lifelong Learner 🚀
 - 🐍 Python Development
 - 🌐 Frontend Development
 - 📚 Data Structures & Algorithms
-- 🏗️ Software Engineering Fundamentals
+- ⚙️ Software Engineering Fundamentals
 - 🚀 Building Real-World Projects
 
 ---
@@ -96,27 +96,29 @@ ECE Student • Aspiring Full-Stack Developer • Lifelong Learner 🚀
 
 - 🌐 Personal Portfolio Website
 - 📦 Inventory Management System (C++)
-- 🐍 Python Learning Projects
+- 🐍 Python Projects
 - 💻 Frontend Development Projects
 
-> Pin your best repositories here using GitHub's **Customize your pins** option.
+> Customize your pinned repositories on GitHub to showcase your best work.
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## 🤝 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://github.com/Mega-1-One">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gamachu-abebe-35b281329">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>
+<div align="center">
+
+### ✨ "Building the future, one commit at a time."
+
+</div>
 ```
